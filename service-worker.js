@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/amomedia-app/precache-manifest.7f86fa02a149238c87b5467e2375c27e.js"
+  "/amomedia-app/precache-manifest.19ecdc73247546f0e24c67d0516cad18.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61dc55082f7821ee9cde578fbd7c1120",
+    "revision": "61cbfa15524c7471c03fe995cc0151d8",
     "url": "/amomedia-app/index.html"
   },
   {
-    "revision": "64b51ad6e20592209ff6",
+    "revision": "52832d06db672cfdbb8f",
     "url": "/amomedia-app/static/css/main.43fb368b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amomedia-app/static/js/2.bc8a31d4.chunk.js.LICENSE"
   },
   {
-    "revision": "64b51ad6e20592209ff6",
-    "url": "/amomedia-app/static/js/main.f0f8f3ac.chunk.js"
+    "revision": "52832d06db672cfdbb8f",
+    "url": "/amomedia-app/static/js/main.4b682e82.chunk.js"
   },
   {
     "revision": "9eb026e80de40f2db0fa",

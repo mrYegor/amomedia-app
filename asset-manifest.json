@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/amomedia-app/static/css/main.43fb368b.chunk.css",
-    "main.js": "/amomedia-app/static/js/main.f0f8f3ac.chunk.js",
-    "main.js.map": "/amomedia-app/static/js/main.f0f8f3ac.chunk.js.map",
+    "main.js": "/amomedia-app/static/js/main.4b682e82.chunk.js",
+    "main.js.map": "/amomedia-app/static/js/main.4b682e82.chunk.js.map",
     "runtime-main.js": "/amomedia-app/static/js/runtime-main.34260742.js",
     "runtime-main.js.map": "/amomedia-app/static/js/runtime-main.34260742.js.map",
     "static/js/2.bc8a31d4.chunk.js": "/amomedia-app/static/js/2.bc8a31d4.chunk.js",
     "static/js/2.bc8a31d4.chunk.js.map": "/amomedia-app/static/js/2.bc8a31d4.chunk.js.map",
     "index.html": "/amomedia-app/index.html",
-    "precache-manifest.7f86fa02a149238c87b5467e2375c27e.js": "/amomedia-app/precache-manifest.7f86fa02a149238c87b5467e2375c27e.js",
+    "precache-manifest.19ecdc73247546f0e24c67d0516cad18.js": "/amomedia-app/precache-manifest.19ecdc73247546f0e24c67d0516cad18.js",
     "service-worker.js": "/amomedia-app/service-worker.js",
     "static/css/main.43fb368b.chunk.css.map": "/amomedia-app/static/css/main.43fb368b.chunk.css.map",
     "static/js/2.bc8a31d4.chunk.js.LICENSE": "/amomedia-app/static/js/2.bc8a31d4.chunk.js.LICENSE",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.34260742.js",
     "static/js/2.bc8a31d4.chunk.js",
     "static/css/main.43fb368b.chunk.css",
-    "static/js/main.f0f8f3ac.chunk.js"
+    "static/js/main.4b682e82.chunk.js"
   ]
 }
